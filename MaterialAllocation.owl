@@ -24,7 +24,6 @@
 :isInTransportUnit rdf:type owl:ObjectProperty ,
                             owl:FunctionalProperty ,
                             owl:AsymmetricProperty ,
-                            owl:TransitiveProperty ,
                             owl:IrreflexiveProperty ;
                    rdfs:domain :MaterialFlowParticipant ;
                    rdfs:range :TransportUnit .
